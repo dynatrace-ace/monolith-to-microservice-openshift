@@ -9,6 +9,7 @@ deployments
 orders-service/ObjectStore/
 deployment/kubernetes/istio/istio-0.*
 temp/
+.vscode/
 
 # folders that will be revealed later during the journey
 deployment/
