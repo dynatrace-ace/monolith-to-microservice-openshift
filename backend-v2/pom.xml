@@ -105,7 +105,7 @@
         <buildhelper.plugin.version>1.7</buildhelper.plugin.version>
         <fabric8.maven.plugin.version>3.5.25</fabric8.maven.plugin.version>
         <docker.image.name>%g/%a:%l</docker.image.name>
-        <ff4j.version>1.7.1</ff4j.version>
+        <ff4j.version>1.8.3</ff4j.version>
         <version.org.jboss.arquillian>1.1.12.Final</version.org.jboss.arquillian>
         <version.org.wildfly.arquillian.container>2.0.0.Final</version.org.wildfly.arquillian.container>
     </properties>
